@@ -6,6 +6,27 @@
   height: 40vmin;
   pointer-events: none;
 }
+.nav_bar_wrap a{
+  margin-left: 30px;
+  text-decoration: none;
+  color: #fff;
+}
+.e-com{ 
+  margin-left: 20px;
+}
+.register-form{
+  padding: 52px 41px;
+
+  border: 3px solid black;
+  margin: 90px auto;
+}
+.flexclass{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+ 
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
